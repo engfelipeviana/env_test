@@ -1,3 +1,3 @@
 # env_test
 
-start-jenkins
+start-jenkins!
